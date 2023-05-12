@@ -108,14 +108,10 @@ body {
   border-radius: 0;
 }
 
-body {
-  margin-top: 20px;
-}
-
-.portrait{
+.portrait {
 border-radius: 15px;
-
-
+justify-content: center;
+display: flex;
 }
 
 .card {
