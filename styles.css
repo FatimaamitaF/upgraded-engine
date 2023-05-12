@@ -112,10 +112,9 @@ body {
 border-radius: 15px;
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto; 
   width: 50%;
-  padding-top: 35px;
-  box-shadow: var(--box-shadow);
+  padding: 35px;
 }
 
 .card {
