@@ -98,8 +98,8 @@ p {
 
 body {
   margin-top: 20px;
+  justify-content: center;
 }
-
 
 .card {
   border: none;
@@ -112,10 +112,16 @@ body {
   margin-top: 20px;
 }
 
+.portrait{
+border-radius: 15px;
+
+
+}
 
 .card {
   border: none;
 }
+
 .card-img {
   border-radius: 0;
 }
