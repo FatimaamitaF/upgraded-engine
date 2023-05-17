@@ -139,3 +139,8 @@ container {
   box-shadow: 4px 5px 18px -4px rgba(0, 0, 0, 0.52);
   margin: 0;
 }
+
+footer{
+  color: gray;
+  font-family: 'Courier New', Courier, monospace;
+}
